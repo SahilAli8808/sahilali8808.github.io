@@ -9,19 +9,11 @@
 
 - 🌱 I’m currently learning **python,java, javascript, and c++**
 
-- 👯 I’m looking to collaborate on **A big project that is amazing and interesting**
-
-- 🤝 I’m looking for help with **CS students**
-
 - 📝 I regularly write articles on [www.educationworld511.blogspot.com](www.educationworld511.blogspot.com)
-
-- 💬 Ask me about **html, CSS, C**
 
 - 📫 How to reach me **sahilali88084667@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1JCf35qB7ltq-rdDXr3U-7GzV2hBh3LLcUuXZPB5clBY/edit?usp=sharing](https://docs.google.com/document/d/1JCf35qB7ltq-rdDXr3U-7GzV2hBh3LLcUuXZPB5clBY/edit?usp=sharing)
-
-- ⚡ Fun fact **You think You can understand me but you are in confusion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
