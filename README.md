@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sahil</h1>
-<h3 align="center">A full stack developer from India , Uttar Pradesh</h3>
+<h1 align="center">Hi there! <img width="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">, I'm Sahil</h1>
+<h3 align="center"> Developer from India , Uttar Pradesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilali8808&label=Profile%20views&color=0e75b6&style=flat" alt="sahilali8808" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 🔭 I’m currently Studying on **Language University,lucknow**
 
